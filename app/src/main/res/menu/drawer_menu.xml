@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/br"
+        android:title="Black rat" />
+
+    <item
+        android:id="@+id/wr"
+        android:title="White rat" />
+
+    <item
+        android:id="@+id/gr"
+        android:title="Gray rat" />
+
+    <item
+        android:id="@+id/next"
+        android:title="Вторая activity" />
+
+</menu>
